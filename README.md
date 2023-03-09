@@ -12,6 +12,16 @@ This URL has the application deployed in
 
 ### link...........
 
+## Pages Required:
+
+- Home Page
+- Create Quiz Page
+- My Quiz Page
+- Authentication Page
+- Play Quiz Page
+- Result Quiz Page
+
+
 ## Project ScreenShot 
 
 ### Image 01
@@ -36,11 +46,13 @@ This URL has the application deployed in
 ### Technologies that we were used in this project.
 
   1.React.
+  
   2.Material UI for Responsive and Beautiful UI.  
-  3.JSpdf for downloading resume. 
-  4.Redux for state management.  
-  5.React-avatar-edit for selecting profile image for resume.
-  6.React-router-dom for routing.
+  
+   
+  3.Redux for state management.  
+  
+  4.React-router-dom for routing.
   
 
 ## Installation guide
@@ -48,7 +60,7 @@ This URL has the application deployed in
 For My Developers Friends
 
 ```sh
-git clone  https://github.com/Ismail1500/ResumeBuilder.git
+git clone  https://github.com/Ismail1500/Quiz_App.git
 
 npm install
 
