@@ -1,5 +1,5 @@
-# Quiz_App 
-This quiz app provide you to create An Awesome quiz quickly.
+# Quiz_Platform
+This quiz platform provide you to create quiz quickly.
 
 
 ## Live Application URL
